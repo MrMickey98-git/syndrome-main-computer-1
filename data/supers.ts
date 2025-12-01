@@ -27,7 +27,7 @@ export const supers: Array<Super> = [
   {
     name: 'Mr. Incredible',
     slug: 'mr-incredible',
-    threatRating: 9.1,
+    threatRating: 100,
     description: 'Superhuman strength, capable of lifting weight up to 55 tons, invulnerability to high levels of physical damage',
     img: 'mr_incredible.png',
   },
